@@ -5,7 +5,7 @@ from pygame.locals import*
 # Inicializamos
 pygame.mixer.init()  
 # Cargamos la cancion  
-pygame.mixer.music.load(os.path.join('D:\gbackup\Respaldo\Musik\Mana\\ana.mp3'))  
+pygame.mixer.music.load(os.path.join('C:\Users\Kernel\Documents\GitHub\phyton\musica\\Manda una señal.mp3'))  
 # Le damos al Play  
 pygame.mixer.music.play()  
 # Esperamos un tiempo a que acabe la cancion  
